@@ -13,6 +13,9 @@
 		D437980C2671342F0073FDD2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D437980A2671342F0073FDD2 /* Main.storyboard */; };
 		D437980E267134300073FDD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D437980D267134300073FDD2 /* Assets.xcassets */; };
 		D4379811267134300073FDD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D437980F267134300073FDD2 /* LaunchScreen.storyboard */; };
+		D4EFE357267325B6004FABB5 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = D4EFE354267325B6004FABB5 /* Icon-72.png */; };
+		D4EFE358267325B6004FABB5 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = D4EFE355267325B6004FABB5 /* Icon.png */; };
+		D4EFE359267325B6004FABB5 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D4EFE356267325B6004FABB5 /* Icon@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		D437980D267134300073FDD2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4379810267134300073FDD2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4379812267134300073FDD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4EFE354267325B6004FABB5 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
+		D4EFE355267325B6004FABB5 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		D4EFE356267325B6004FABB5 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +62,9 @@
 		D43798032671342F0073FDD2 /* Score Keeper */ = {
 			isa = PBXGroup;
 			children = (
+				D4EFE354267325B6004FABB5 /* Icon-72.png */,
+				D4EFE355267325B6004FABB5 /* Icon.png */,
+				D4EFE356267325B6004FABB5 /* Icon@2x.png */,
 				D43798042671342F0073FDD2 /* AppDelegate.swift */,
 				D43798062671342F0073FDD2 /* SceneDelegate.swift */,
 				D43798082671342F0073FDD2 /* ViewController.swift */,
@@ -125,6 +134,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				D4379811267134300073FDD2 /* LaunchScreen.storyboard in Resources */,
+				D4EFE359267325B6004FABB5 /* Icon@2x.png in Resources */,
+				D4EFE357267325B6004FABB5 /* Icon-72.png in Resources */,
+				D4EFE358267325B6004FABB5 /* Icon.png in Resources */,
 				D437980E267134300073FDD2 /* Assets.xcassets in Resources */,
 				D437980C2671342F0073FDD2 /* Main.storyboard in Resources */,
 			);
